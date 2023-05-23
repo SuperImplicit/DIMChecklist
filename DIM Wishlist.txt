@@ -1,0 +1,4 @@
+//Pulse Rifles
+
+	//Autumn Wind
+	dimwishlist:item=3110377595&perks=1482024992,1885400500,2846385770,460017080,4091460919
